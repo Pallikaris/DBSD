@@ -1,8 +1,8 @@
 # DBSD
 Full working software that creates and manages Heap, Hash &amp; Sechondary Hash Table files, over a block level interface to the DB.
-### Developing Data Base Systems###
-### National & Kapodistrian University of Athens###
-### Department of Informatics and Telecommunications###
+### Developing Data Base Systems ###
+### National & Kapodistrian University of Athen s###
+### Department of Informatics and Telecommunications ###
 ### 3/12/2022 - 9/1/2023
 
 
