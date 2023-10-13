@@ -7,8 +7,11 @@ Full working software that creates and manages Heap, Hash &amp; Sechondary Hash 
 
 
 __Students__
-D****** G****** 	sdi1***6
 Giorgos Pallikaris		sdi1400335
+<br />
+<br />
+D****** G****** 	sdi1***6
+
 
 
 __Grading__
