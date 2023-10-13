@@ -9,7 +9,6 @@ Full working software that creates and manages Heap, Hash &amp; Sechondary Hash 
 __Students__
 Giorgos Pallikaris		sdi1400335
 <br />
-<br />
 D****** G****** 	sdi1***6
 
 
@@ -39,7 +38,6 @@ Line of execution should follow.
 		*Creating file(s)
 
 		*Opening file(s)  thus storing a live copy of files' index  which will be used as handler until the file is closed.
-
 
 		**Insertion,deletion,search, use of multiple files secondary hash tables etc..
 
